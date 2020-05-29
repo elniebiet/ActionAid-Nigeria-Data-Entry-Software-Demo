@@ -1,4 +1,4 @@
-# Easy to use Data Entry Software. 
+# Demo for Easy to use Data Entry Software.
 For data entry at IDP camps in Borno State, Nigeria.
 
 ## Home
