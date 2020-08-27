@@ -9,7 +9,7 @@ For data entry at IDP camps in Borno State, Nigeria.
 
 ![](Screenshots/aa2.png)
 
-Contact us for better and up-to-date Software solutions. @FIGI GROUP
+@FIGI GLOBAL
 
 
 
